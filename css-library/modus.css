@@ -137,7 +137,6 @@ ul > li > a:hover {
   height: 75px;
   position: relative;
   border-bottom: 4px solid var(--main-color);
-  border-radius: 10px;
   width: 300px;
   text-align: center;
 }
@@ -213,7 +212,6 @@ ul > li > a:hover {
   height: 75px;
   position: relative;
   border-bottom: 4px solid var(--main-color);
-  border-radius: 10px;
   width: 300px;
   text-align: center;
   position: relative;
